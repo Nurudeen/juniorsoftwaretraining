@@ -13,6 +13,12 @@ package basics;
 public class HelloWorld {
     
     public static void main(String[] args) {
+        
+        display();
+    }
+    
+    
+    public static void display(){
         System.out.println("Hello World");
         System.out.println("Using the Git command !!!");
         System.out.println("Adding Code from GitHub");
